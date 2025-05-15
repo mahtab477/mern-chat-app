@@ -85,7 +85,7 @@ const SingUp = () => {
                 style={{marginTop: 15}}
                 onClick={submitHandler}
                 >
-                  Sing Up
+                  Sign Up
                 </Button>
           </VStack>
     

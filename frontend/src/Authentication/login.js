@@ -5,7 +5,7 @@ import {  InputGroup ,Input} from "@chakra-ui/react"
 import React, { useState } from 'react';
 
 const Login = () => {
-     const [show, setShow] = useState();
+        const [show, setShow] = useState();
         const [name, setName] = useState();
         const [email, setEmail] = useState();
         const [password, setPassword] = useState();
@@ -13,7 +13,7 @@ const Login = () => {
       
           const handleClick = () => setShow(!show);
           
-        const submitHandler = () => { };
+          const submitHandler = () => { };
     
 
     return (
